@@ -1,0 +1,30 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://cfg.local/file.php/
+Subject: 
+Date: Thu, 26 Mar 2020 15:26:02 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--gzjfJbgdXdl6YdMRSB1cSSKzjQvJ4ABcajnROKmdS8----"
+
+
+------MultipartBoundary--gzjfJbgdXdl6YdMRSB1cSSKzjQvJ4ABcajnROKmdS8----
+Content-Type: text/html
+Content-ID: <frame-1072D1B8D360C82292149FA123A4B866@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://cfg.local/file.php/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body>=D0=A4=D0=B0=D0=B9=D0=BB NE =D1=83=D1=81=D0=BF=D0=B5=
+=D1=88=D0=BD=D0=BE =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B6=D0=B5=D0=BD!<br><br=
+>
+<b>Warning</b>:  Cannot modify header information - headers already sent by=
+ (output started at C:\Windows\SysWOW64\OSPanel\domains\cfg.local\file.php:=
+10) in <b>C:\Windows\SysWOW64\OSPanel\domains\cfg.local\file.php</b> on lin=
+e <b>24</b><br>
+<form method=3D"POST" action=3D"http://cfg.local/file.php/" enctype=3D"mult=
+ipart/form-data">
+            <input type=3D"file" name=3D"photo">
+            <input type=3D"submit">
+        </form>  </body></html>
+------MultipartBoundary--gzjfJbgdXdl6YdMRSB1cSSKzjQvJ4ABcajnROKmdS8------
